@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html>
-<head>
 <?php include"head.html" ?>
 <body>
 <div id="container">
