@@ -1,27 +1,49 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Hills Ballet</title>
+    <title>Hills Ballet School Classes</title>
     <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
     <link href="style.css" rel="stylesheet" type="text/css">
+    <link href="jsImgSlider/themes/1/js-image-slider.css" rel="stylesheet" type="text/css" />
+    <script src="jsImgSlider/themes/1/js-image-slider.js" type="text/javascript"></script>
     <script src="js/jquery-2.1.1.min.js"></script>
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+    <link rel="icon" href="favicon.ico" type="image/x-icon">
 </head>
 
 <body>
 <div id="container">
 	<div id="nav"></div>
-    <script>$("#nav").load( "menu.html" );</script>
-	<img src="images/dancers.jpg" alt="Thumbnail">
 	<div id="body">
-        <div class="textboxtop2">Classes</div>
+        <div id="sliderFrame"></div>
+        <div class="textboxtop2">Little Tiptoes (18 months - 3 years)</div>
         <div class="textbox">
-            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer 
-            took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially
-            unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker 
-            including versions of Lorem Ipsum.</p>
+Little Tiptoes is a fun, creative class to introduce your little dancer to the world of dance. Using classical ballet scores, action songs, nursery rhymes and a broad range of other musical styles we explore a termly theme.<p>This class is specifically designed to meet the needs of a toddler. We encourage carers to take an active role and support dancers as they learn how to explore dance in a group environment. We love to see our little dancers express themselves through their dance.
+        </div>
+        <div class="textboxbottom"></div>
+        <br>
+        <div class="textboxtop2">Leap into Dance (3 years - 5 years)</div>
+        <div class="textbox">
+This class is for our dancers who are learning to take part in their ballet class independently. In this class we start to introduce more fundamental ballet concepts but still explore dance in fun, creative way exploring a termly theme. 
+        </div>
+        <div class="textboxbottom"></div>
+        <br>
+        <div class="textboxtop2">Pre-Primary /Primary Ballet (5 years - 7 years)</div>
+        <div class="textbox">
+These classes are for our school aged dancers who are ready for a little more structure. We follow the Royal Academy of Dance syllabus which encourages a great deal of creativity whilst still developing a basic classical ballet technique.<p>Children at this age have the opportunity to begin to take Ballet Examinations if they choose to.
+        </div>
+        <div class="textboxbottom"></div>
+        <br>
+        <div class="textboxtop2">Grade 1/Grade 2 Ballet (7 years - 9 years)</div>
+        <div class="textbox">
+By this level our ballerinas and danseurs have a good understanding of ballet basics. They are starting to dance with more understanding about posture and dance sequencing and are developing an ability to talk about ballet and dance using the correct terminology.<p>We explore open classes (unset exercises) as well as working towards the Royal Academy of Dance Grade Examinations.<p>There is no requirement for students to sit their exams however we encourage all of our students to work to their best. Most importantly we encourage them to have fun and enjoy the challenges!
         </div>
         <div class="textboxbottom"></div>
 	</div>
 </div>
 </body>
+<script>
+    $("#nav").load( "menu.html" );
+    $("#sliderFrame").load( "slider.html" );
+</script>
 </html>
