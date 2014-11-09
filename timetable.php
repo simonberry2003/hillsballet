@@ -3,9 +3,9 @@
 <?php include"head.html" ?>
 <body>
 <div id="container">
-	<?php include"menu2.html" ?>
+	<?php include"menu.html" ?>
 	<div id="body">
-        <?php include"slider2.html" ?>
+        <?php include"slider.html" ?>
         <div class="textboxtop2">Saturday Timetable</div>
         <div class="textbox">
             <table border="1">

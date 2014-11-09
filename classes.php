@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html>
-    <?php include"head.html" ?>
+<?php include"head.html" ?>
 <body>
 <div id="container">
-	<?php include"menu2.html" ?>
+	<?php include"menu.html" ?>
 	<div id="body">
-        <?php include"slider2.html" ?>
+        <?php include"slider.html" ?>
         <div class="textboxtop2">Little Tiptoes (18 months - 3 years)</div>
         <div class="textbox">
 Little Tiptoes is a fun, creative class to introduce your little dancer to the world of dance. Using classical ballet scores, action songs, nursery rhymes and a broad range of other musical styles, we explore a different theme each term.<p>This class is specifically designed to meet the needs of toddlers. We encourage carers to take an active role and support dancers as they learn how to explore dance in a group environment. We love to see our little dancers express themselves through their dance.

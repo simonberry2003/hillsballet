@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html>
-    <?php include"head.html" ?>
+<?php include"head.html" ?>
 <body>
 <div id="container">
-	<?php include"menu2.html" ?>
+	<?php include"menu.html" ?>
 	<div id="body">
-        <?php include"slider2.html" ?>
+        <?php include"slider.html" ?>
         <div class="textboxtop2">Fees</div>
         <div class="textbox">
             <p>The following are our current fees:<br><br>
