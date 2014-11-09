@@ -1,21 +1,11 @@
 <!DOCTYPE html>
 <html>
-<head>
-    <title>Hills Ballet School Fees</title>
-    <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-    <link href="style.css" rel="stylesheet" type="text/css">
-    <link href="jsImgSlider/themes/1/js-image-slider.css" rel="stylesheet" type="text/css" />
-    <script src="jsImgSlider/themes/1/js-image-slider.js" type="text/javascript"></script>
-    <script src="js/jquery-2.1.1.min.js"></script>
-    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
-    <link rel="icon" href="favicon.ico" type="image/x-icon">
-</head>
-
+    <?php include"head.html" ?>
 <body>
 <div id="container">
-	<div id="nav"></div>
+	<?php include"menu2.html" ?>
 	<div id="body">
-        <div id="sliderFrame"></div>
+        <?php include"slider2.html" ?>
         <div class="textboxtop2">Fees</div>
         <div class="textbox">
             <p>The following are our current fees:<br><br>
@@ -49,8 +39,4 @@
 	</div>
 </div>
 </body>
-<script>
-    $("#nav").load( "menu.html" );
-    $("#sliderFrame").load( "slider.html" );
-</script>
 </html>
