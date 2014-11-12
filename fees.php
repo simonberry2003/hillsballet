@@ -2,6 +2,7 @@
 <html>
 <?php include"head.html" ?>
 <body>
+<?php include "facebook.html" ?>
 <div id="container">
 	<?php include"menu.html" ?>
 	<div id="body">
@@ -36,6 +37,7 @@
         <p>Please <a href="mailto:info@hillsballetschool.com.au?Subject=Info" target="_top">contact us</a> for more detailed information in regards to fees.
         </div>
         <div class="textboxbottom"></div>
+        <?php include "footer.html" ?>
 	</div>
 </div>
 </body>

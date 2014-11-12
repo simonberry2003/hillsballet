@@ -2,6 +2,7 @@
 <html>
 <?php include"head.html" ?>
 <body>
+<?php include "facebook.html" ?>
 <div id="container">
 	<?php include"menu.html" ?>
 	<div id="body">
@@ -29,6 +30,7 @@ These classes are for our school aged dancers who are ready for a little more st
 By this level our ballerinas and danseurs have a good understanding of ballet basics. They are starting to dance with more understanding about posture and dance sequencing and are developing an ability to talk about ballet and dance using the correct terminology.<p>We explore open classes (unset exercises) as well as working towards the Royal Academy of Dance Grade Examinations.<p>There is no requirement for students to sit their exams however we encourage all of our students to work to their best. Most importantly we encourage them to have fun and enjoy the challenges!
         </div>
         <div class="textboxbottom"></div>
+        <?php include "footer.html" ?>
 	</div>
 </div>
 </body>

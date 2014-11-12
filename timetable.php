@@ -2,6 +2,7 @@
 <html>
 <?php include"head.html" ?>
 <body>
+<?php include "facebook.html" ?>
 <div id="container">
 	<?php include"menu.html" ?>
 	<div id="body">
@@ -23,6 +24,7 @@
            <p>Additional classes for exam preparation are available. Please <a href="mailto:info@hillsballetschool.com.au?Subject=Info" target="_top">contact us</a> for more information.
         </div>
         <div class="textboxbottom"></div>
+        <?php include "footer.html" ?>
 	</div>
 </div>
 </body>

@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
 <?php include"head.html" ?>
+<?php include "facebook.html" ?>
 <body>
 <div id="container">
 	<?php include"menu.html" ?>
@@ -12,6 +13,7 @@
             <a href="mailto:info@hillsballetschool.com.au?Subject=Info" target="_top">info@hillsballetschool.com.au</a>
         </div>
         <div class="textboxbottom"></div>
+        <?php include "footer.html" ?>
 	</div>
 </div>
 </body>
