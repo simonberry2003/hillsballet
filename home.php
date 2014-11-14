@@ -2,7 +2,7 @@
 <html>
 <?php include "head.html" ?>
 <body>
-<?php include "facebook.html" ?>
+<?php include "includes.php" ?>
 <div id="container">
     <?php include "menu.html" ?>
 	<div id="body">

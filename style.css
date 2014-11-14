@@ -38,13 +38,13 @@ a:hover, a:active {
 #container {
 	margin: 0px auto;
 	text-align: left;
-	width: 780px;
+	width: 880px;
 	position:relative;
 }
 
 #nav {
 	height: 50px;
-	width: 700px;
+	width: 800px;
     margin: auto;
 }
 
@@ -52,10 +52,10 @@ a:hover, a:active {
 	list-style: none;
 	margin: 20px 0px 0px 0px;
 	padding: 0px;
-	width:700px;
-	z-index:15;
-	position:absolute;
-	text-align:center;
+	width: 800px;
+	z-index: 15;
+	position: absolute;
+	text-align: center;
 }
 
 #nav li {

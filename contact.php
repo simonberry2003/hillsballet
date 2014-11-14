@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html>
 <?php include"head.html" ?>
-<?php include "facebook.html" ?>
 <body>
+<?php include "includes.php" ?>
 <div id="container">
 	<?php include"menu.html" ?>
 	<div id="body">
