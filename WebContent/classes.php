@@ -9,19 +9,33 @@
         <?php include"slider.html" ?>
         <div class="textboxtop2">Little Tiptoes (18 months - 3 years)</div>
         <div class="textbox">
-Little Tiptoes is a fun, creative class to introduce your little dancer to the world of dance. Using classical ballet scores, action songs, nursery rhymes and a broad range of other musical styles, we explore a different theme each term.<p>This class is specifically designed to meet the needs of toddlers. We encourage carers to take an active role and support dancers as they learn how to explore dance in a group environment. We love to see our little dancers express themselves through their dance.
+            Little Tiptoes is the perfect class to introduce your littlest dancer to the world of ballet and movement. 
+            Using classical ballet music, action songs, nursery rhymes and many other musical styles, we explore a different 
+            theme each term.
+            <p>This class is specifically designed to meet the needs of toddlers. At Hills Ballet School we understand the 
+            world of our littlest dancers and love to see them embrace dance and movement. We encourage carers to take an 
+            active role and support dancers as they learn how to explore dance in a group environment. We have lots of tips 
+            to help our Little Tiptoes ballerinas and danseurs settle in to their new environment and make it an exciting 
+            place to explore the creative arts. 
         </div>
         <div class="textboxbottom"></div>
         <br>
         <div class="textboxtop2">Leap into Dance (3 years - 5 years)</div>
         <div class="textbox">
-This class is for our dancers who are learning to take part in their ballet class independently. In this class we start to introduce more fundamental ballet concepts but still explore dance in a fun, creative way exploring a termly theme. 
+            When your dancer is ready to dance independently he/she is ready to "Leap into Dance". 
+            In this class we begin to introduce more fundamental ballet concepts but still explore dance in a fun creative way. 
+            Each term we explore a theme and at the end of each term we share our dancing with parents and carers. 
         </div>
         <div class="textboxbottom"></div>
         <br>
         <div class="textboxtop2">Pre-Primary /Primary Ballet (5 years - 7 years)</div>
         <div class="textbox">
-These classes are for our school aged dancers who are ready for a little more structure. We follow the Royal Academy of Dance syllabus which encourages a great deal of creativity while still developing a basic classical ballet technique.<p>Children at this age have the opportunity to begin to take Ballet Examinations if they choose to.
+            When dancers reach school age they are ready for a little more structure in their ballet class. 
+            We draw upon the Royal Academy of Dance syllabus for our lessons, which encourages a great deal of 
+            creativity while still developing the foundations of a classical ballet technique. 
+            We make sure we maintain the fun and energy of our younger classes and use a range of music to 
+            inspire young dancers. Children at this age have the opportunity to begin to take Ballet 
+            Examinations should they choose to.
         </div>
         <div class="textboxbottom"></div>
         <br>
