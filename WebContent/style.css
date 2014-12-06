@@ -44,7 +44,6 @@ a:hover, a:active {
 
 #nav {
 	height: 50px;
-	width: 800px;
     margin: auto;
 }
 
@@ -52,7 +51,6 @@ a:hover, a:active {
 	list-style: none;
 	margin: 20px 0px 0px 0px;
 	padding: 0px;
-	width: 800px;
 	z-index: 15;
 	position: absolute;
 	text-align: center;
