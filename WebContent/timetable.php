@@ -19,6 +19,16 @@
         </div>
         <div class="textboxbottom"></div>
         <br>
+        <div class="textboxtop2">Thursday Timetable</div>
+        <div class="textbox">
+            <table border="1">
+                <tr><th>Time</th><th>Class</th></tr>
+                <tr><td>4.00 – 4.45</td><td>Grade 2 Exam prep/Jazz/Tap/Performance</td></tr>
+                <tr><td>4.45 – 5.30</td><td>Pre-primary/Primary including Primary Exam Prep</td></tr>
+            </table>
+        </div>
+        <div class="textboxbottom"></div>
+        <br>
         <div class="textboxtop2">Examination Classes</div>
         <div class="textbox">
            <p>Additional classes for exam preparation are available. Please <a href="mailto:info@hillsballetschool.com.au?Subject=Info" target="_top">contact us</a> for more information.
