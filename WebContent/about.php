@@ -21,7 +21,7 @@
         <div class="textboxtop2">A Little About Chantal</div>
         <div class="textbox"> 
             I have danced and taught in Australia, UK and Europe working as an independent artist. I have extensive teaching experience in ballet and am a registered teacher for the Royal Academy of Dancing. 
-            <p>Whilst taking a break from the world of dance I trained as a primary school teacher bring to my classes a love of dance and an in-depth knowledge of child development.
+            <p>Whilst taking a break from the world of dance I trained as a primary school teacher and now bring to my classes a love of dance and an in-depth knowledge of child development.
             <p>As well as twirling with my dancers at Hills Ballet School this year I will be ballet mistress at A Star dance and help some of Bebe Ballet’s dancers through their exams.
             <p>I  am very thankful to all the little dancers who have re-ignited my love of dance, ballet and the joy of movement over the last 2 years. I can’t wait to share this with my dancers and their families as we embark on an exciting journey into dance at Hills Ballet School.
         </div>
