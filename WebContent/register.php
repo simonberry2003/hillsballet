@@ -56,7 +56,7 @@
 	                <tr><td><input type="submit"></td></tr>
 	                </table>
 	            </form>
-            
+                <p><B>Please note that some classes are currently full, however, register your interest and we will endeavour to find your dancer a class.</B> 
             <?php } ?>
         </div>
         <div class="textboxbottom"></div>
