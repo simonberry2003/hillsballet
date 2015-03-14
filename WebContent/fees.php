@@ -7,6 +7,7 @@
 	<?php include"menu.html" ?>
 	<div id="body">
         <?php include"slider.html" ?>
+        <?php include "alert.html" ?>
         <div class="textboxtop2">Fees</div>
         <div class="textbox">
             <p>The following are our current fees:<br><br>

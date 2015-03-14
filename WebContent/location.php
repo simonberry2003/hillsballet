@@ -7,6 +7,7 @@
 	<?php include"menu.html" ?>
 	<div id="body">
         <?php include"slider.html" ?>
+        <?php include "alert.html" ?>
         <div class="textboxtop2">Mount Lofty Scout Hut</div>
         <div class="textbox"> 
             <p>Saturday classes are located in the Mount Lofty Scout Hut</p>

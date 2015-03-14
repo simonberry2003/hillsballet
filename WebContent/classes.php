@@ -7,6 +7,7 @@
 	<?php include"menu.html" ?>
 	<div id="body">
         <?php include"slider.html" ?>
+        <?php include "alert.html" ?>
         <div class="textboxtop2">Little Tiptoes (18 months - 3 years)</div>
         <div class="textbox">
             Little Tiptoes is the perfect class to introduce your littlest dancer to the world of ballet and movement. 

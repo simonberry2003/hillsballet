@@ -7,6 +7,7 @@
 	<?php include"menu.html" ?>
 	<div id="body">
         <?php include"slider.html" ?>
+        <?php include "alert.html" ?>
         <div class="textboxtop2">Contact Details</div>
         <div class="textbox"> 
             <p>If you would like further information please contact us at:<br><br>

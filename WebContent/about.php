@@ -7,6 +7,7 @@
 	<?php include"menu.html" ?>
 	<div id="body">
         <?php include"slider.html" ?>
+        <?php include "alert.html" ?>
         <div class="textboxtop2">About Us</div>
         <div class="textbox"> 
             Hills Ballet school is a family owned ballet school located in the Adelaide Hills. We currently hold ballet classes at the Mount Lofty Scout Hut in Aldgate and the Aldgate Oval Hall. 

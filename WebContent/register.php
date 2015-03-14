@@ -7,6 +7,7 @@
     <?php include "menu.html" ?>
 	<div id="body">
         <?php include "slider.html" ?>
+        <?php include "alert.html" ?>
         <div class="textboxtop2">Registration</div>
         <div class="textbox">
             <?php

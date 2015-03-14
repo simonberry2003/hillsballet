@@ -81,7 +81,7 @@ a:hover, a:active {
 	text-decoration:underline;
 }
 
-.textboxtop,.textboxtop2{
+.textboxtop, .textboxtop2 {
 	color: #F2BCCE;
 	display: block;
 	font-size: 19px;
@@ -137,4 +137,22 @@ a:hover, a:active {
 
 .lastitem {
 	background:url(images/list-bg-2.gif) !important;
+}
+
+.sidebar {
+    width: 70px;
+    height: 30px;
+    float: right;
+}
+
+.sidebartextboxtop2 {
+    width: 226px;
+}
+
+.sidebartextbox {
+    width: 214px;	
+}
+
+.sidebartextboxbottom {
+    width: 231px;
 }

@@ -7,6 +7,7 @@
     <?php include "menu.html" ?>
 	<div id="body">
         <?php include "slider.html" ?>
+        <?php include "alert.html" ?>
         <div class="textboxtop2">Welcome to Hills Ballet School</div>
         <div class="textbox">
             Welcome to Hills Ballet School located in the beautiful Adelaide Hills. We are a South Australian family owned ballet school sharing the love of dance with children.   
