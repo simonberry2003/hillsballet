@@ -1,18 +1,28 @@
 <!DOCTYPE html>
-<html>
-<?php include "head.html" ?>
-<body>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>French Translation Services</title>
+<link href="css/bootstrap.min.css" rel="stylesheet">
 <?php include "includes.php" ?>
-<div id="container">
-    <?php include "menu.html" ?>
-	<div id="body">
-        <?php include "slider.html" ?>
-        <?php include "alert.html" ?>
-        <div class="textboxtop2">Registration</div>
-        <div class="textbox">
+<?php include "head.html" ?>
+</head>
+<body>
+    <?php $page="register" ?>
+    <?php include "menu.php" ?>
+    <div class="panel panel-default">
+        <div class="container">
+            <div class="panel-body">
+                <?php include "slider.php" ?>
+                <div class="panel panel-default">
+                    <div class="panel-heading">
+                        <h3 class="panel-title">Registration</h3>
+                    </div>
+                    <div class="panel-body">
             <?php
-                $email = $_POST['email'];
-                if(isset($email) && trim($email) != "") {
+                if (array_key_exists('email', $_POST)) {
                     
                     $info = "info@hillsballetschool.com.au";
                     
@@ -35,34 +45,53 @@
                     Thanks for your interest. We will be in touch soon.
             
             <?php } else { ?>
-	        
-	            <form action="register.php" method="post">
-	                <table>
-	                <tr><td>Child's Full Name:</td><td><input type="text" name="name"></td></tr>
-	                <tr><td>Date of Birth:</td><td><input type="text" name="dob"></td></tr>
-	                <tr><td>Email Address:</td><td><input type="text" name="email"></td></tr>
-	                <tr><td>Address:</td><td><input type="text" name="address"></td></tr>
-	                <tr><td>Phone:</td><td><input type="text" name="phone"></td></tr>
-	                <tr><td>Carer's Name:</td><td><input type="text" name="carer"></td></tr>
-	                <tr><td>Class:</td>
-	                    <td>
-							<select name="class">
-							  <option value="Little Tiptoes">Little Tiptoes</option>
-							  <option value="Leap Into Dance">Leap Into Dance</option>
-							  <option value="Pre-Primary/Primary">Pre-Primary/Primary</option>
-							  <option value="Grade1/Grade2">Grade1/Grade2</option>
-							</select>	                   
-						</td>
-	                </tr>
-	                <tr><td><input type="submit"></td></tr>
-	                </table>
-	            </form>
-                <p><B>Please note that some classes are currently full, however, register your interest and we will endeavour to find your dancer a class.</B> 
+            
+                <form action="register.php" method="post">
+                    <div class="form-group">
+                        <label for="name">Child's Full Name:</label>
+                        <input type="text" class="form-control" id="name" name="name">
+                    </div>  
+                    <div class="form-group">
+                        <label for="dob">Date of Birth:</label>
+                        <input type="text" class="form-control" id="dob" name="dob">
+                    </div>  
+                    <div class="form-group">
+                        <label for="email">Email Address:</label>
+                        <input type="email" class="form-control" id="email" name="email">
+                    </div>  
+                    <div class="form-group">
+                        <label for="address">Address:</label>
+                        <input type="text" class="form-control" id="address" name="address">
+                    </div>  
+                    <div class="form-group">
+                        <label for="phone">Phone:</label>
+                        <input type="text" class="form-control" id="phone" name="phone">
+                    </div>  
+                    <div class="form-group">
+                        <label for="carer">Carer's Name:</label>
+                        <input type="text" class="form-control" id="carer" name="carer">
+                    </div>  
+                    <div class="form-group">
+                        <label for="class">Class:</label>
+                        <select class="form-control" id="class" name="class">
+                            <option value="Little Tiptoes">Little Tiptoes</option>
+                            <option value="Leap Into Dance">Leap Into Dance</option>
+                            <option value="Pre-Primary/Primary">Pre-Primary/Primary</option>
+                            <option value="Grade1/Grade2">Grade1/Grade2</option>
+                        </select>                      
+                    </div>  
+                    <input type="submit" class="btn btn-default">
+                </form>
+                <br>
+                <p><B>Please note that some classes are currently full, however, register your interest and we will endeavour to find your dancer a class.</B></p> 
             <?php } ?>
+                    </div>
+                </div>
+            </div>
         </div>
-        <div class="textboxbottom"></div>
-        <?php include "footer.html" ?>
-	</div>
-</div>
+        <div class="panel-footer">
+            <?php include "footer.html" ?>
+        </div>
+    </div>
 </body>
 </html>

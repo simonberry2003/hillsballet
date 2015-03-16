@@ -1,42 +1,60 @@
 <!DOCTYPE html>
-<html>
-<?php include"head.html" ?>
-<body>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>French Translation Services</title>
+<link href="css/bootstrap.min.css" rel="stylesheet">
 <?php include "includes.php" ?>
-<div id="container">
-	<?php include"menu.html" ?>
-	<div id="body">
-        <?php include"slider.html" ?>
-        <?php include "alert.html" ?>
-        <div class="textboxtop2">Saturday Timetable</div>
-        <div class="textbox">
-            <table border="1">
-                <tr><th>Time</th><th>Class</th></tr>
-                <tr><td>9.00 - 9.45</td><td>Pre-Primary/Primary</td></tr>
-                <tr><td>9.45 - 10.30</td><td>Grade 1/2</td></tr>
-                <tr><td>10.30 - 11.10</td><td>Little Tiptoes</td></tr>
-                <tr><td>11.15 - 11.55</td><td>Leap into Dance</td></tr>
-            </table>
+<?php include "head.html" ?>
+</head>
+<body>
+    <?php $page="timetable" ?>
+    <?php include "menu.php" ?>
+    <div class="panel panel-default">
+        <div class="container">
+            <div class="panel-body">
+                <?php include "slider.php" ?>
+                <div class="panel panel-default">
+                    <div class="panel-heading">
+                        <h3 class="panel-title">Saturday Timetable</h3>
+                    </div>
+                    <div class="panel-body">
+                        <table class="table table-hover">
+                            <tr><th>Time</th><th>Class</th></tr>
+                            <tr><td>9.00 - 9.45</td><td>Pre-Primary/Primary</td></tr>
+                            <tr><td>9.45 - 10.30</td><td>Grade 1/2</td></tr>
+                            <tr><td>10.30 - 11.10</td><td>Little Tiptoes</td></tr>
+                            <tr><td>11.15 - 11.55</td><td>Leap into Dance</td></tr>
+                        </table>
+                    </div>
+                </div>
+                <div class="panel panel-default">
+                    <div class="panel-heading">
+                        <h3 class="panel-title">Thursday Timetable</h3>
+                    </div>
+                    <div class="panel-body">
+                        <table class="table table-hover">
+                            <tr><th>Time</th><th>Class</th></tr>
+                            <tr><td>4.00 â€“ 4.45</td><td>Grade 2 Exam prep/Jazz/Tap/Performance</td></tr>
+                            <tr><td>4.45 â€“ 5.30</td><td>Pre-primary/Primary including Primary Exam Prep</td></tr>
+                        </table>
+                    </div>
+                </div>
+                <div class="panel panel-default">
+                    <div class="panel-heading">
+                        <h3 class="panel-title">Examination Classes</h3>
+                    </div>
+                    <div class="panel-body">
+                        Additional classes for exam preparation are available. Please <a href="mailto:info@hillsballetschool.com.au?Subject=Info" target="_top">contact us</a> for more information.
+                    </div>
+                </div>
+            </div>
         </div>
-        <div class="textboxbottom"></div>
-        <br>
-        <div class="textboxtop2">Thursday Timetable</div>
-        <div class="textbox">
-            <table border="1">
-                <tr><th>Time</th><th>Class</th></tr>
-                <tr><td>4.00 – 4.45</td><td>Grade 2 Exam prep/Jazz/Tap/Performance</td></tr>
-                <tr><td>4.45 – 5.30</td><td>Pre-primary/Primary including Primary Exam Prep</td></tr>
-            </table>
+        <div class="panel-footer">
+            <?php include "footer.html" ?>
         </div>
-        <div class="textboxbottom"></div>
-        <br>
-        <div class="textboxtop2">Examination Classes</div>
-        <div class="textbox">
-           <p>Additional classes for exam preparation are available. Please <a href="mailto:info@hillsballetschool.com.au?Subject=Info" target="_top">contact us</a> for more information.
-        </div>
-        <div class="textboxbottom"></div>
-        <?php include "footer.html" ?>
-	</div>
-</div>
+    </div>
 </body>
 </html>
