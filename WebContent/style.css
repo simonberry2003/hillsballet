@@ -93,3 +93,9 @@
 .panel-heading {
     background-color: #c0617f; 
 }
+
+@media screen and (max-width: 1024px) {
+    #sliderFrame {
+        display: none !important;
+    }
+}
