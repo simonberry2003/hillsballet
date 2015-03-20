@@ -34,6 +34,7 @@ if ($mobile_browser == 0) {
 ?>
 <div id="sliderFrame">
     <div style="margin-bottom: 100px" id="slider">
+        <img src="images/slider/Harriet and Abbie.png" />
         <img src="images/slider/First Position web.png" />
         <img src="images/slider/Heads Turned.png" />
         <img src="images/slider/First position2.png" />
@@ -43,7 +44,6 @@ if ($mobile_browser == 0) {
         <img src="images/slider/pointe.png" />
         <img src="images/slider/Zoe.png" />
         <img src="images/slider/feetjumble.png" />
-        <img src="images/slider/Harriet and Abbie.png" />
     </div>
 </div>
 <?php
