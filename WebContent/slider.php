@@ -13,34 +13,34 @@
   </ol>
   <div class="carousel-inner">
     <div class="item active">
-      <img src="images/slider/Harriet and Abbie.png" />
+      <img src="images/slider/Harriet and Abbie.jpg" />
     </div>
     <div class="item">
-      <img src="images/slider/First Position web.png" />
+      <img src="images/slider/First Position web.jpg" />
     </div>
     <div class="item">
-      <img src="images/slider/Heads Turned.png" />
+      <img src="images/slider/Heads Turned.jpg" />
     </div>
     <div class="item">
-        <img src="images/slider/First position2.png" />
+        <img src="images/slider/First position2.jpg" />
     </div>
     <div class="item">
-        <img src="images/slider/Beatrice 5th.png" />
+        <img src="images/slider/Beatrice 5th.jpg" />
     </div>
     <div class="item">
-        <img src="images/slider/feet.png" />
+        <img src="images/slider/feet.jpg" />
     </div>
     <div class="item">
-        <img src="images/slider/Harriet 5th.png" />
+        <img src="images/slider/Harriet 5th.jpg" />
     </div>
     <div class="item">
-        <img src="images/slider/pointe.png" />
+        <img src="images/slider/pointe.jpg" />
     </div>
     <div class="item">
-        <img src="images/slider/Zoe.png" />
+        <img src="images/slider/Zoe.jpg" />
     </div>
     <div class="item">
-        <img src="images/slider/feetjumble.png" />
+        <img src="images/slider/feetjumble.jpg" />
     </div>
   </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
