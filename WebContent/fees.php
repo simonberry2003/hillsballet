@@ -39,13 +39,13 @@
 							</tr>
 							<tr>
 								<td>75 minutes</td>
-								<td>$195</td>
-								<td>$215</td>
+								<td>$160</td>
+								<td>$185</td>
 							</tr>
 							<tr>
 								<td>90 minutes</td>
-								<td>$260</td>
-								<td>$290</td>
+								<td>$190</td>
+								<td>$220</td>
 							</tr>
 						</table>
 					</div>
