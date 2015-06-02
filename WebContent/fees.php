@@ -32,21 +32,6 @@
 								<td>$100</td>
 								<td>$110</td>
 							</tr>
-							<tr>
-								<td>60 minutes</td>
-								<td>$130</td>
-								<td>$145</td>
-							</tr>
-							<tr>
-								<td>75 minutes</td>
-								<td>$160</td>
-								<td>$185</td>
-							</tr>
-							<tr>
-								<td>90 minutes</td>
-								<td>$190</td>
-								<td>$220</td>
-							</tr>
 						</table>
 					</div>
 					<div class="panel-heading">
