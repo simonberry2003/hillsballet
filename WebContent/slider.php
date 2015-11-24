@@ -10,6 +10,12 @@
     <li data-target="#carousel" data-slide-to="7"></li>
     <li data-target="#carousel" data-slide-to="8"></li>
     <li data-target="#carousel" data-slide-to="9"></li>
+    <li data-target="#carousel" data-slide-to="10"></li>
+    <li data-target="#carousel" data-slide-to="11"></li>
+    <li data-target="#carousel" data-slide-to="12"></li>
+    <li data-target="#carousel" data-slide-to="13"></li>
+    <li data-target="#carousel" data-slide-to="14"></li>
+    <li data-target="#carousel" data-slide-to="15"></li>
   </ol>
   <div class="carousel-inner">
     <div class="item active">
@@ -19,22 +25,40 @@
       <img src="images/slider/First Position web.jpg" />
     </div>
     <div class="item">
+      <img src="images/slider/Image 1.jpg" />
+    </div>
+    <div class="item">
       <img src="images/slider/Heads Turned.jpg" />
+    </div>
+    <div class="item">
+      <img src="images/slider/Image 2.jpg" />
     </div>
     <div class="item">
         <img src="images/slider/First position2.jpg" />
     </div>
     <div class="item">
+      <img src="images/slider/Image 3.jpg" />
+    </div>
+    <div class="item">
         <img src="images/slider/Beatrice 5th.jpg" />
     </div>
     <div class="item">
+      <img src="images/slider/Image 4.jpg" />
+    </div>
+    <div class="item">
         <img src="images/slider/feet.jpg" />
+    </div>
+    <div class="item">
+      <img src="images/slider/Image 5.jpg" />
     </div>
     <div class="item">
         <img src="images/slider/Harriet 5th.jpg" />
     </div>
     <div class="item">
         <img src="images/slider/pointe.jpg" />
+    </div>
+    <div class="item">
+      <img src="images/slider/Image 6.jpg" />
     </div>
     <div class="item">
         <img src="images/slider/Zoe.jpg" />
