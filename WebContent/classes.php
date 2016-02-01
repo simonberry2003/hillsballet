@@ -73,6 +73,21 @@
 							Most importantly we encourage them to have fun and enjoy the
 							challenges!</p>
 					</div>
+					<div class="panel-heading">
+						<h3 class="panel-title">Locomotion</h3>
+					</div>
+					<div class="panel-body">Specifically designed for boys who
+						love to move and groove, this class is fast moving and full of
+						fun! Locomotion has been created to give your little boy the dance
+						foundation he needs, developing coordination, body awareness,
+						rhythm and a joy of movement.</div>
+					<div class="panel-heading">
+						<h3 class="panel-title">Tap</h3>
+					</div>
+					<div class="panel-body">Our Tap classes are new this year.
+						Lots of fun and a little bit noisy, we love the rhythms of our tap
+						classes. Dancers are able to hire tap shoes from us when available
+						and need to be attending a ballet class to take part.</div>
 				</div>
 			</div>
 		</div>

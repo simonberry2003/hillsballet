@@ -17,45 +17,87 @@
 				<?php include "slider.php" ?>
 				<div class="panel panel-default">
 					<?php include "alert.php" ?>
+                    <div class="panel-heading">
+                        <h3 class="panel-title">Monday Timetable</h3>
+                    </div>
+                    <div class="panel-body">
+                        <table class="table table-hover">
+                            <tr>
+                                <th class="col-md-2">Time</th>
+                                <th class="col-md-3">Class</th>
+                                <th class="col-md-3">Venue</th>
+                            </tr>
+                            <tr>
+                                <td class="col-md-2">16.00 - 16.45</td>
+                                <td class="col-md-4">Primary/Grade 1</td>
+                                <td class="col-md-3">Aldgate Oval Hall</td>
+                            </tr>
+                            <tr>
+                                <td class="col-md-2">16.45 - 17.00</td>
+                                <td class="col-md-4">Tap Level 2</td>
+                                <td class="col-md-3">Aldgate Oval Hall</td>
+                            </tr>
+                            <tr>
+                                <td class="col-md-2">17.00 - 18.00</td>
+                                <td class="col-md-4">Grade 2/3</td>
+                                <td class="col-md-3">Aldgate Oval Hall </td>
+                            </tr>
+                        </table>
+                    </div>
 					<div class="panel-heading">
-						<h3 class="panel-title">Saturday Timetable</h3>
+						<h3 class="panel-title">Thursday Timetable</h3>
 					</div>
 					<div class="panel-body">
 						<table class="table table-hover">
 							<tr>
 								<th class="col-md-2">Time</th>
 								<th class="col-md-3">Class</th>
-                                <th>Venue</th>
+                                <th class="col-md-3">Venue</th>
 							</tr>
 							<tr>
-								<td class="col-md-2">9.00 - 9.45</td>
-								<td class="col-md-4">Pre-Primary/Primary</td>
-                                <td class="col-md-3">Mount Lofty Scout Hut</td>
-							</tr>
-							<tr>
-								<td class="col-md-2">9.45 - 10.30</td>
-								<td class="col-md-4">Grade 1/2</td>
-                                <td class="col-md-3">Mount Lofty Scout Hut</td>
-							</tr>
-							<tr>
-								<td class="col-md-2">10.30 - 11.10</td>
-								<td class="col-md-4">Little Tiptoes</td>
-                                <td class="col-md-3">Mount Lofty Scout Hut</td>
-							</tr>
-							<tr>
-								<td class="col-md-2">11.15 - 11.55</td>
-								<td class="col-md-4">Leap into Dance</td>
+								<td class="col-md-2">9.15 – 9.55</td>
+								<td class="col-md-4">Leap into Dance (3yrs – 5 yrs)</td>
                                 <td class="col-md-3">Mount Lofty Scout Hut</td>
 							</tr>
                             <tr>
-                                <td class="col-md-2">12.00 - 12.40</td>
-                                <td class="col-md-4">Leap into Dance</td>
+                                <td class="col-md-2">10.00 – 10.40</td>
+                                <td class="col-md-4">Little Tiptoes (18 months – 3 years)</td>
                                 <td class="col-md-3">Mount Lofty Scout Hut</td>
+                            </tr>
+                            <tr>
+                                <td class="col-md-2">10.45 – 11.25</td>
+                                <td class="col-md-4">Locomotion (boys only 3 – 5 years)</td>
+                                <td class="col-md-3">Mount Lofty Scout Hut</td>
+                            </tr>
+                            <tr>
+                                <td class="col-md-2">11.30 – 12.10</td>
+                                <td class="col-md-4">Leap into Dance (3yrs – 5 yrs)</td>
+                                <td class="col-md-3">Mount Lofty Scout Hut</td>
+                            </tr>
+                            <tr>
+                                <td class="col-md-2">15.45 – 16.30</td>
+                                <td class="col-md-4">Pre-Primary/Primary</td>
+                                <td class="col-md-3">Aldgate Oval Hall</td>
+                            </tr>
+                            <tr>
+                                <td class="col-md-2">16.30 – 16.45</td>
+                                <td class="col-md-4">Tap Level 1</td>
+                                <td class="col-md-3">Aldgate Oval Hall</td>
+                            </tr>
+                            <tr>
+                                <td class="col-md-2">16.45 – 17.00</td>
+                                <td class="col-md-4">Tap Level 3</td>
+                                <td class="col-md-3">Aldgate Oval Hall</td>
+                            </tr>
+                            <tr>
+                                <td class="col-md-2">17.00 - 18.00</td>
+                                <td class="col-md-4">Grade 3/4</td>
+                                <td class="col-md-3">Aldgate Oval Hall</td>
                             </tr>
 						</table>
 					</div>
 					<div class="panel-heading">
-						<h3 class="panel-title">Thursday Timetable</h3>
+						<h3 class="panel-title">Saturday Timetable</h3>
 					</div>
 					<div class="panel-body">
 						<table class="table table-hover">
@@ -65,25 +107,30 @@
                                 <th class="col-md-3">Venue</th>
 							</tr>
                             <tr>
-                                <td class="col-md-2">9.15 - 9.55</td>
-                                <td class="col-md-4">Leap Into Dance</td>
-                                <td class="col-md-3">Mount Lofty Scout Hut</td>
+                                <td class="col-md-2">9.00 - 9.45</td>
+                                <td class="col-md-4">Pre-Primary</td>
+                                <td class="col-md-3">Aldgate Oval Hall</td>
                             </tr>
                             <tr>
-                                <td class="col-md-2">10.00 - 10.40</td>
-                                <td class="col-md-4">Little Tiptoes</td>
-                                <td class="col-md-3">Mount Lofty Scout Hut</td>
+                                <td class="col-md-2">9.45 – 10.30</td>
+                                <td class="col-md-4">Primary</td>
+                                <td class="col-md-3">Aldgate Oval Hall</td>
                             </tr>
 							<tr>
-								<td class="col-md-2">4.00 - 4.45</td>
-								<td class="col-md-4">Grade 2 Ballet/Jazz/Tap/Performance</td>
+								<td class="col-md-2">10.40 – 11.20</td>
+								<td class="col-md-4">Leap into Dance (3yrs – 5 yrs)</td>
                                 <td class="col-md-3">Aldgate Oval Hall</td>
 							</tr>
 							<tr>
-								<td class="col-md-2">4.45 - 5.30</td>
-								<td class="col-md-4">Pre-primary/Primary Ballet</td>
+								<td class="col-md-2">11.20– 12.00</td>
+								<td class="col-md-4">Little Tiptoes (18 months – 3 years)</td>
                                 <td class="col-md-3">Aldgate Oval Hall</td>
 							</tr>
+                            <tr>
+                                <td class="col-md-2">12.10 – 12.50</td>
+                                <td class="col-md-4">Leap into Dance (3yrs – 5 yrs)</td>
+                                <td class="col-md-3">Aldgate Oval Hall</td>
+                            </tr>
 						</table>
 					</div>
 				</div>
@@ -92,9 +139,11 @@
 						<h3 class="panel-title">Examination Classes</h3>
 					</div>
 					<div class="panel-body">
-						Additional classes for exam preparation are available. Please <a
-							href="mailto:info@hillsballetschool.com.au?Subject=Info"
-							target="_top">contact us</a> for more information.
+                        Children from Primary onwards wishing to take ballet exams this year will need to attend an extra class from 
+                        the beginning of the year until the examinations in early Term 3. 
+                        This class is yet to be timetabled and will most likely take place on a Friday.
+                        Pre-primary children wishing to take part in a Class Award will need to attend and class from 8.45 
+                        of a Saturday morning from Term 2 until the examination.
 					</div>
 				</div>
 			</div>
