@@ -18,7 +18,7 @@
 				<div class="panel panel-default">
 					<?php include "alert.php" ?>
 					<div class="panel-heading">
-						<h3 class="panel-title">Fees</h3>
+						<h3 class="panel-title">Fees Per 10 Week Term</h3>
 					</div>
 					<div class="panel-body">
 						<table class="table table-hover">
