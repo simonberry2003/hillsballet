@@ -35,10 +35,10 @@
                     $message = "Name: " . $_POST['name'] . "<br>";
                     $message .= "DOB: " . $_POST['dob'] . "<br>";
                     $message .= "Email: " . $_POST['email'] . "<br>";
-                    $message .= "Address: " . $_POST['address'] . "<br>";
                     $message .= "Phone: " . $_POST['phone'] . "<br>";
                     $message .= "Carer: " . $_POST['carer'] . "<br>";
                     $message .= "Class: " . $_POST['class'] . "<br>";
+                    $message .= "Day: " . $_POST['day'] . "<br>";
 
                     mail($info, "Registration", $message, $headers);
             ?>
@@ -60,10 +60,6 @@
 									class="form-control" id="email" name="email">
 							</div>
 							<div class="form-group">
-								<label for="address">Address:</label> <input type="text"
-									class="form-control" id="address" name="address">
-							</div>
-							<div class="form-group">
 								<label for="phone">Phone:</label> <input type="text"
 									class="form-control" id="phone" name="phone">
 							</div>
@@ -72,12 +68,30 @@
 									class="form-control" id="carer" name="carer">
 							</div>
 							<div class="form-group">
-								<label for="class">Class:</label> <select class="form-control"
-									id="class" name="class">
+								<label for="class">Class:</label> <select class="form-control" id="class" name="class">
 									<option value="Little Tiptoes">Little Tiptoes</option>
 									<option value="Leap Into Dance">Leap Into Dance</option>
-									<option value="Pre-Primary/Primary">Pre-Primary/Primary</option>
-									<option value="Grade1/Grade2">Grade1/Grade2</option>
+                                    <option value="Leap Into Dance Kindy">Leap Into Dance Kindy</option>
+                                    <option value="Locomotion">Locomotion</option>
+									<option value="Pre-Primary">Pre-Primary</option>
+                                    <option value="Primary">Primary</option>
+									<option value="Grade1">Grade 1</option>
+									<option value="Grade2">Grade 2</option>
+									<option value="Grade3">Grade 3</option>
+									<option value="Grade4">Grade 4</option>
+                                    <option value="Tap">Tap</option>
+                                    <option value="Contemporary">Contemporary</option>
+                                    <option value="MusicalTheatre">Musical Theatre</option>
+								</select>
+							</div>
+
+							<div class="form-group">
+								<label for="class">Day:</label> <select class="form-control" id="day" name="day">
+									<option value="Monday">Monday</option>
+                                    <option value="Tuesday">Tuesday</option>
+                                    <option value="Thursday">Thursday</option>
+                                    <option value="Friday">Friday</option>
+                                    <option value="Saturday">Saturday</option>
 								</select>
 							</div>
 							<input type="submit" class="btn btn-default">
