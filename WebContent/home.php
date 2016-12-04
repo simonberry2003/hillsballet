@@ -45,7 +45,7 @@
                         <h4><i class="fa fa-fw fa-gift"></i>Classes</h4>
                     </div>
                     <div class="panel-body">
-                        <p>Hills Ballet Schoool offers dance classes for girls and boys from eighteen months of age</p>
+                        <p>Hills Ballet School offers dance classes for girls and boys from eighteen months of age</p>
 						<p>
 							Our classes are currently located at the Mount Lofty Scout Hut,
 							Aldgate and the Aldgate Oval Hall, please see our <a
