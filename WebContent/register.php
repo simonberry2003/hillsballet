@@ -30,7 +30,7 @@
 
 				<?php } else { ?>
 
-				<form action="register.php" method="post">
+				<form action="contact.php" method="post">
 					<table>
 						<tr>
 							<td>
