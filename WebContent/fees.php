@@ -1,25 +1,25 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta charset="utf-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link href="css/bootstrap.min.css" rel="stylesheet">
 <?php include "includes.php" ?>
 <?php include "head.html" ?>
 </head>
 <body>
 	<?php $page="fees" ?>
 	<?php include "menu.php" ?>
-	<div class="panel panel-default">
-		<div class="container">
-			<div class="panel-body">
-				<?php include "slider.php" ?>
-				<div class="panel panel-default">
-					<?php include "alert.php" ?>
-					<div class="panel-heading">
-						<h3 class="panel-title">Fees Per 10 Week Term</h3>
-					</div>
+
+	<div class="container">
+	  	<div class="row">
+		    <div class="col-lg-12">
+	        	<h1 class="page-header">Fee Information</h1>
+				<?php include "alert.php" ?>
+	    	</div>
+	  	
+            <div class="col-md-12">
+                <div class="panel panel-default">
+                    <div class="panel-heading">
+                        <h4><i class="fa fa-fw fa-check"></i>Fees Per 10 Week Term</h4>
+                    </div>
 					<div class="panel-body">
 						<table class="table table-hover">
 							<tr>
@@ -34,27 +34,26 @@
 							</tr>
 						</table>
 					</div>
-					<div class="panel-heading">
-						<h3 class="panel-title">Fee Information</h3>
-					</div>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="panel panel-default">
+                    <div class="panel-heading">
+                        <h4><i class="fa fa-fw fa-gift"></i>Family/Multi-class Discount</h4>
+                    </div>
 					<div class="panel-body">
-						<h3>Family/Multi-class Discount</h3>
 						<p>Families with more than one child attending classes or with
 							a child attending more than one class will receive a further 5%
 							discount.</p>
-
-						<h3>Invoices</h3>
-						<p>Families will receive an invoice via email at least 2 weeks
-							before payment is due.</p>
-
-						<h3>Payment Deadlines</h3>
-						<p>Term Fees are strictly payable within the first week of
-							term. All fees paid within this time will receive a discount.
-							Fees paid after week 1 will be charged at a full price. Please
-							speak to your teacher if you are unable to pay your fees by week
-							3 of term.</p>
-
-						<h3>New Dancers</h3>
+					</div>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="panel panel-default">
+                    <div class="panel-heading">
+                        <h4><i class="fa fa-fw fa-gift"></i>New Dancers</h4>
+                    </div>
+					<div class="panel-body">
 						<p>Term fee payment will be pro-rata only for new dancers
 							starting mid-term, not existing students. Each new dancer is
 							offered one trial lesson free.</p>
@@ -65,12 +64,25 @@
 							regards to fees.
 						</p>
 					</div>
-				</div>
-			</div>
-		</div>
-		<div class="panel-footer">
-			<?php include "footer.html" ?>
-		</div>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="panel panel-default">
+                    <div class="panel-heading">
+                        <h4><i class="fa fa-fw fa-gift"></i>Invoices</h4>
+                    </div>
+					<div class="panel-body">
+						<p>Families will receive an invoice via email at least 2 weeks
+							before payment is due.</p>
+					</div>
+                </div>
+            </div>
+	    </div>
 	</div>
+
+	<div class="panel-footer">
+		<?php include "footer.html" ?>
+	</div>
+
 </body>
 </html>

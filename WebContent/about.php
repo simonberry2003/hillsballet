@@ -1,25 +1,25 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta charset="utf-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link href="css/bootstrap.min.css" rel="stylesheet">
 <?php include "includes.php" ?>
 <?php include "head.html" ?>
 </head>
 <body>
 	<?php $page="about" ?>
 	<?php include "menu.php" ?>
-	<div class="panel panel-default">
-		<div class="container">
-			<div class="panel-body">
-				<?php include "slider.php" ?>
-				<div class="panel panel-default">
-					<?php include "alert.php" ?>
-					<div class="panel-heading">
-						<h3 class="panel-title">About Us</h3>
-					</div>
+
+	<div class="container">
+	  	<div class="row">
+		    <div class="col-lg-12">
+	        	<h1 class="page-header">About Hills Ballet School</h1>
+				<?php include "alert.php" ?>
+	    	</div>
+	  	
+            <div class="col-md-6">
+                <div class="panel panel-default">
+                    <div class="panel-heading">
+                        <h4><i class="fa fa-fw fa-check"></i>About Us</h4>
+                    </div>
 					<div class="panel-body">
 						<p>Hills Ballet school is a family owned ballet school located
 							in the Adelaide Hills. We currently hold ballet classes at the
@@ -42,11 +42,13 @@
 							(RTS (Registered Teacher Status), BA (Performing Arts), PGCE
 							(Post Grad Certificate of Education).</p>
 					</div>
-				</div>
-				<div class="panel panel-default">
-					<div class="panel-heading">
-						<h3 class="panel-title">A Little About Chantal</h3>
-					</div>
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="panel panel-default">
+                    <div class="panel-heading">
+                        <h4><i class="fa fa-fw fa-gift"></i>A Little About Chantal</h4>
+                    </div>
 					<div class="panel-body">
 						<p>I have danced and taught in Australia, UK and Europe
 							working as an independent artist. I have extensive teaching
@@ -64,12 +66,14 @@
 							their families as we embark on an exciting journey into dance at
 							Hills Ballet School.</p>
 					</div>
-				</div>
-			</div>
-		</div>
-		<div class="panel-footer">
-			<?php include "footer.html" ?>
-		</div>
+                </div>
+            </div>
+	    </div>
 	</div>
+	
+	<div class="panel-footer">
+		<?php include "footer.html" ?>
+	</div>
+
 </body>
 </html>
