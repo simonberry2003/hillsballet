@@ -36,7 +36,7 @@
 	    </div>
 
 		<br>	    
-		<?php include "register.php" ?>
+		<?php include "register2.php" ?>
 			    
     </div>
 	
