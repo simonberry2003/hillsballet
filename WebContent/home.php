@@ -23,19 +23,12 @@
                         <h4><i class="fa fa-fw fa-check"></i>About Us</h4>
                     </div>
                     <div class="panel-body">
-						<p>We offer a range of dynamic and specialised ballet classes
-							to suit dancers from the age of eighteen months.</p>
-						<p>We would love you to join us at Hills Ballet School and are
-							currently taking enrolments for 2017.</p>
-						<p>
-							If you would like to come along for a trial lesson or to find our
-							more information, please feel free to <a
-								href="mailto:info@hillsballetschool.com.au?Subject=Info"
-								target="_top">contact us</a>.
-						</p>
-							                        
+						<p>Hills Ballet School is a friendly, local dance school based in Aldgate/Stirling area of the beautiful Adelaide Hills. 
+						We teach children as young as 18 months, building strong movement foundations and having lots of fun! 
+						Originally starting as a ballet school we are now proud offer to tap, musical theatre and contemporary classes as well 
+						as adult dance classes. Please see our classes for more information on the different styles.</p>
+						<p>We invite you to take a look at our website and Facebook page, email us or give us a call to find out more information.</p>
                         <a href="/about.php" class="btn btn-default">Learn More</a>
-						
                     </div>
                 </div>
             </div>

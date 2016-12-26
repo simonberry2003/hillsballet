@@ -14,57 +14,77 @@
 	        	<h1 class="page-header">About Hills Ballet School</h1>
 				<?php include "alert.php" ?>
 	    	</div>
-	  	
-            <div class="col-md-6">
+	  	    <div class="col-md-6">
                 <div class="panel panel-default">
                     <div class="panel-heading">
                         <h4><i class="fa fa-fw fa-check"></i>About Us</h4>
                     </div>
 					<div class="panel-body">
-						<p>Hills Ballet school is a family owned ballet school located
-							in the Adelaide Hills. We currently hold ballet classes at the
-							Mount Lofty Scout Hut in Aldgate and the Aldgate Oval Hall.</p>
-						<p>Our aim is to provide high quality, dynamic ballet and
-							dance lessons that celebrate each dancer as an individual.</p>
-						<p>The "Little Tiptoes" programme is specifically designed to
-							meet the needs of younger dancers. Your little dancer can tiptoe
-							with your support from the age of eighteen months.</p>
-						<p>When dancers are ready to dance independently they can join
-							the "Leap into Dance" programme. In this fun, dynamic class,
-							dancers are introduced to the basics of ballet technique,
-							encouraging their creativity and love of movement.</p>
-						<p>Once dancers reach school age our lessons are based upon
-							the Royal Academy of Dancing syllabus. At this level dancers can
-							choose to participate in examinations. Above all we maintain our
-							sense of fun and enjoyment that the challenges of dancing can
-							bring.</p>
-						<p>Hills Ballet School classes are taught by Chantal Berry
-							(RTS (Registered Teacher Status), BA (Performing Arts), PGCE
-							(Post Grad Certificate of Education).</p>
+						<p>Hills Ballet school is a family owned ballet school located in the Adelaide Hills. 
+						We currently hold ballet classes at the Mount Lofty Scout Hut in Aldgate and the Aldgate Oval Hall.</p>
+						<p>Our aim is to provide high quality, dynamic ballet and dance lessons that celebrate each 
+						dancer as an individual. We love to see our dancers' personalities shine through as they develop 
+						a movement vocabulary and style.</p>
+						<p>Offering a range of classes to children from the age of eighteen months old we provide an excellent 
+						movement foundation for children as they get ready for kindy and school.</p>
+						<p>Following the Royal Academy of Dance syllabus from Pre-Primary onwards our little dancers receive 
+						an exciting introduction to dance, full of imagination and creativity.  As they get a little older 
+						we invite them to extend their movement range with our tap, contemporary and musical theatre classes.</p>
+						<p>At Hills Ballet School we promote 'safe dance' ensuring that the content of our classes is age 
+						appropriate. All teachers carry a current first aid certificate and 'Working with children' clearance.</p>
+						<p>We would love to welcome you to our classes. Please contact us if you would like any further information.</p>
+					</div>
+                </div>
+            </div>
+        </div>
+	  	<div class="row">
+            <div class="col-md-6">
+                <div class="panel panel-default">
+                    <div class="panel-heading">
+                        <h4><i class="fa fa-fw fa-gift"></i>Chantal Berry</h4>
+                    </div>
+					<div class="panel-body">
+						<p>I have two favourite pass times - dancing and teaching. At Hills Ballet School I have 
+						found a place where I can combine both and I am always delighted to share my love of 
+						dance with my students.</p>
+						<p>Working as a dancer, dance teacher and classroom teacher for the last 25 years has 
+						taken me on many adventures in Adelaide and worldwide.</p>
+						<p>I am very thankful to all the little dancers who re-ignited my love of dance, 
+						ballet and the joy of movement when I returned to Australia. 
+						It is with great delight that I can see them now taking great leaps and bounds in 
+						their movement education.</p>
+						<p>Miss Chantal (RAD RTS, Bachelor of Arts (Drama Studies), Post Grad Cert Education, 
+						ATOD affiliate teacher)</p>
 					</div>
                 </div>
             </div>
             <div class="col-md-6">
                 <div class="panel panel-default">
                     <div class="panel-heading">
-                        <h4><i class="fa fa-fw fa-gift"></i>A Little About Chantal</h4>
+                        <h4><i class="fa fa-fw fa-gift"></i>Monique Saywell</h4>
                     </div>
 					<div class="panel-body">
-						<p>I have danced and taught in Australia, UK and Europe
-							working as an independent artist. I have extensive teaching
-							experience in ballet and am a registered teacher for the Royal
-							Academy of Dancing.</p>
-						<p>Whilst taking a break from the world of dance I trained as
-							a primary school teacher and now bring to my classes a love of
-							dance and an in-depth knowledge of child development.</p>
-						<p>As well as twirling with my dancers at Hills Ballet School
-							this year I will be ballet mistress at A Star dance and help some
-							of Bebe Ballet’s dancers through their exams.</p>
-						<p>I am very thankful to all the little dancers who have
-							re-ignited my love of dance, ballet and the joy of movement over
-							the last 2 years. I can’t wait to share this with my dancers and
-							their families as we embark on an exciting journey into dance at
-							Hills Ballet School.</p>
+						<p>Coming soon... we're so excited.</p>
+					</div>
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="panel panel-default">
+                    <div class="panel-heading">
+                        <h4><i class="fa fa-fw fa-gift"></i>Kathryn Thomson</h4>
+                    </div>
+					<div class="panel-body">
+						<p>Warming up right now...</p>
+					</div>
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="panel panel-default">
+                    <div class="panel-heading">
+                        <h4><i class="fa fa-fw fa-gift"></i>Tanya Voges</h4>
+                    </div>
+					<div class="panel-body">
+						<p>On her way...</p>
 					</div>
                 </div>
             </div>

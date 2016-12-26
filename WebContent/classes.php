@@ -41,13 +41,10 @@
                         <h4><i class="fa fa-fw fa-gift"></i>Leap into Dance (3 - 5 years)</h4>
                     </div>
                     <div class="panel-body">
-                        <p>When your dancer is ready to dance
-						independently he/she is ready to "Leap into Dance".</p
-						<p>In this class we begin to introduce more fundamental ballet concepts but still
-						explore dance in a fun creative way.</p>
-						<p>Each term we explore a theme
-						and at the end of each term we share our dancing with parents and
-						carers.</p>
+						<p>When your dancer is ready to dance independently he/she is ready to "Leap into Dance".
+						In this class we begin to introduce more fundamental ballet concepts but still explore dance in a fun creative way.</p>
+						<p>Through a termly theme we creatively explore and develop our dancers' gross motor skills to help prepare them for kindy and school.
+						Each term ends with a sharing of dance so we can share all the wonderful new skills we have learned.</p>
                     </div>
                     
                 </div>
@@ -76,7 +73,7 @@
             <div class="col-md-4">
                 <div class="panel panel-default">
                     <div class="panel-heading">
-                        <h4><i class="fa fa-fw fa-check"></i>Grade 1/2 Ballet (7 - 9 years)</h4>
+                        <h4><i class="fa fa-fw fa-check"></i>Grade 1 - 4 Ballet (7 - 12 years)</h4>
                     </div>
                     <div class="panel-body">
 						<p>By this level our ballerinas and danseurs have a good
@@ -115,11 +112,48 @@
                         <h4><i class="fa fa-fw fa-gift"></i>Tap</h4>
                     </div>
                     <div class="panel-body">
-                        <p>Our Tap classes are new this year.
-						Lots of fun and a little bit noisy, we love the rhythms of our tap
-						classes.</p>
-						<p> Dancers are able to hire tap shoes from us when available
-						and need to be attending a ballet class to take part.</p>
+						<p>These classes are lots of fun and a little bit noisy, we love the rhythms of our tap classes. 
+						Tap introduces our dancers to new musical styles and helps develop musicality and great team work.</p>
+						<p>Dancers are able to hire tap shoes from us when available and need to be attending a ballet, 
+						contemporary or musical theatre class to take part as our tap classes are only 30 minutes.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-4">
+                <div class="panel panel-default">
+                    <div class="panel-heading">
+                        <h4><i class="fa fa-fw fa-gift"></i>Musical Theatre</h4>
+                    </div>
+                    <div class="panel-body">
+						<p>Hills Ballet School is very excited to be introducing our Musical Theatre classes in 2017. 
+						Aimed at children from approximately 8 years of age, these classes will explore songs from popular 
+						musicals whilst developing singing, stage craft, dance and performance skills. 
+						Performers will be taught by a singing teacher and a dance teacher to help develop strong techniques. 
+						We hope to share our work at the end of each term in an informal setting with friends and family.</p> 
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="panel panel-default">
+                    <div class="panel-heading">
+                        <h4><i class="fa fa-fw fa-gift"></i>Contemporary Dance</h4>
+                    </div>
+                    <div class="panel-body">
+                    	<p>Contemporary dance is a very expressive form of dance that draws on movement from most other dance 
+                    	forms to create a fascinating movement vocabulary. During our contemporary classes we use a range of music 
+                    	to inspire and explore how our bodies respond to different musical genres.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="panel panel-default">
+                    <div class="panel-heading">
+                        <h4><i class="fa fa-fw fa-gift"></i>Adult Contemporary</h4>
+                    </div>
+                    <div class="panel-body">
+                    	<p>A great way to keep fit! Our adult contemporary classes will be taught by Tanya Voges in 2017. </p>
                     </div>
                 </div>
             </div>

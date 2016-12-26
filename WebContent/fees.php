@@ -28,9 +28,24 @@
 								<th>Full Fees</th>
 							</tr>
 							<tr>
+								<td>30 Minutes</td>
+								<td>$40</td>
+								<td>$50</td>
+							</tr>
+							<tr>
 								<td>40/45 minutes</td>
 								<td>$100</td>
 								<td>$110</td>
+							</tr>
+							<tr>
+								<td>1 Hour</td>
+								<td>$120</td>
+								<td>$130</td>
+							</tr>
+							<tr>
+								<td>Adult classes (1hr 15mins)</td>
+								<td></td>
+								<td>$15 casual rate or $130 per 10 lessons</td>
 							</tr>
 						</table>
 					</div>
