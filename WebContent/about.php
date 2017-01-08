@@ -44,7 +44,7 @@
                         <h4><i class="fa fa-fw fa-gift"></i>Chantal Berry</h4>
                     </div>
 					<div class="panel-body">
-						<p>I have two favourite pass times - dancing and teaching. At Hills Ballet School I have 
+						<p>I have two favourite pastimes - dancing and teaching. At Hills Ballet School I have 
 						found a place where I can combine both and I am always delighted to share my love of 
 						dance with my students.</p>
 						<p>Working as a dancer, dance teacher and classroom teacher for the last 25 years has 
