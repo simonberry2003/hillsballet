@@ -153,7 +153,10 @@
                         <h4><i class="fa fa-fw fa-gift"></i>Adult Contemporary</h4>
                     </div>
                     <div class="panel-body">
-                    	<p>A great way to keep fit! Our adult contemporary classes will be taught by Tanya Voges in 2017. </p>
+                    	<p>In a Contemporary Dance class with Tanya you can expect a Slow and Silent warm up, Moves to Music 
+                    	that are easy to follow, fun and utilise the whole body throughout the space, and culminates with 
+                    	Creative Choreography that uses some of the basic moves learnt throughout the class and builds up 
+                    	on the class before.</p>
                     </div>
                 </div>
             </div>

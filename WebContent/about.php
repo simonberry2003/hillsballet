@@ -14,6 +14,8 @@
 	        	<h1 class="page-header">About Hills Ballet School</h1>
 				<?php include "alert.php" ?>
 	    	</div>
+        </div>
+	  	<div class="row">
 	  	    <div class="col-md-6">
                 <div class="panel panel-default">
                     <div class="panel-heading">
@@ -36,8 +38,6 @@
 					</div>
                 </div>
             </div>
-        </div>
-	  	<div class="row">
             <div class="col-md-6">
                 <div class="panel panel-default">
                     <div class="panel-heading">
@@ -64,7 +64,8 @@
                         <h4><i class="fa fa-fw fa-gift"></i>Monique Saywell</h4>
                     </div>
 					<div class="panel-body">
-						<p>Coming soon... we're so excited.</p>
+						<p>We are delighted to welcome Miss Monique to Hills Ballet School. She brings with her a 
+						wealth of knowledge about child development and a love of dance and movement.</p>
 					</div>
                 </div>
             </div>
@@ -74,7 +75,13 @@
                         <h4><i class="fa fa-fw fa-gift"></i>Kathryn Thomson</h4>
                     </div>
 					<div class="panel-body">
-						<p>Warming up right now...</p>
+						<p>When I was 7 years old I went to see a production of Annie at the Festival Theatre. 
+						From that point on Musical Theatre has been in my life in one way or another, whether 
+						it be as an avid listener and audience member, a performer or simply helping out backstage.</p>
+						<p>I am very excited to have the opportunity to bring my love of this genre to The Hills Ballet 
+						School and sharing it with the students. Singing is such a wonderful and joyous past time that I 
+						am sure the students will enjoy combining their love of dance with song.</p>
+						<p>Kathryn Thomson BA Hons (Arts/Music), Grad Dip Education.</p>
 					</div>
                 </div>
             </div>
@@ -84,7 +91,19 @@
                         <h4><i class="fa fa-fw fa-gift"></i>Tanya Voges</h4>
                     </div>
 					<div class="panel-body">
-						<p>On her way...</p>
+						<p>Tanya Voges believes that movement is life, and we are all capable to enjoy a more 
+						enriching life through movement practices like dance and yoga!</p>
+						<p>Tanya is an experienced performer, choreographer and educator. Her classes are influenced 
+						by her own education- a childhood of ballet training, learning contemporary dance and dance theatre 
+						in Europe whilst working in Berlin, Portugal and London in the 90's, a Bachelor of Dance at VCA in 
+						Melbourne graduating in 2004. Tanya is also a qualified yoga teacher and is passionate about 
+						functional anatomy, which make for safe movement practice for students of all physical capabilities.</p>
+						<p>As a performer Tanya has worked with many of Australia's leading choreographers in Sydney, Melbourne 
+						and throughout Tasmania. She has been resident of Adelaide since 2014, and enjoys living in the Hills 
+						with her young family. Here in SA she has performed her own work at South Australia Museum (2014), 
+						and in Alt Fest (2015), performed Sue Hawkesley's interactive work Crosstalk (2016) and will bring her 
+						research knowledge of Memory and Movement to a project with Country Arts SA this year working with an 
+						Aged Care facility and primary school students. <a href="http://www.tanya.voges.net" target="_blank">www.tanya.voges.net</a></p>
 					</div>
                 </div>
             </div>
