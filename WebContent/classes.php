@@ -127,7 +127,7 @@
                         <h4><i class="fa fa-fw fa-gift"></i>Musical Theatre</h4>
                     </div>
                     <div class="panel-body">
-						<p>Hills Ballet School is very excited to be introducing our Musical Theatre classes in 2017. 
+						<p>Hills Ballet School is very excited to be continuing our Musical Theatre classes in 2018. 
 						Aimed at children from approximately 8 years of age, these classes will explore songs from popular 
 						musicals whilst developing singing, stage craft, dance and performance skills. 
 						Performers will be taught by a singing teacher and a dance teacher to help develop strong techniques. 

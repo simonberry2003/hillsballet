@@ -55,7 +55,7 @@
                         <h4><i class="fa fa-fw fa-gift"></i>Timetable</h4>
                     </div>
                     <div class="panel-body">
-                        <p>Our 2017 timetable is now available.</p>
+                        <p>Our 2018 timetable is now available.</p>
                         <a href="/timetable.php" class="btn btn-default">Learn More</a>
                     </div>
                 </div>
