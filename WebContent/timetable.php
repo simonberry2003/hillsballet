@@ -11,11 +11,12 @@
 	<div class="container">
 	  	<div class="row">
 		    <div class="col-lg-12">
-	        	<h1 class="page-header">2017 Timetable</h1>
+	        	<h1 class="page-header">2018 Timetable</h1>
 			    <?php include "alert.php" ?>
 	    	</div>
 			<?php include "timetable/monday.html" ?>
 			<?php include "timetable/tuesday.html" ?>
+			<?php include "timetable/wednesday.html" ?>
 			<?php include "timetable/thursday.html" ?>
 			<?php include "timetable/friday.html" ?>
 			<?php include "timetable/saturday.html" ?>
