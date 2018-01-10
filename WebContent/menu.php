@@ -20,6 +20,7 @@
             <li <?php echo ($page == 'timetable') ? 'class="active"' : '';?>><a href="timetable.php">Timetable</a></li>
             <li <?php echo ($page == 'classes') ? 'class="active"' : '';?>><a href="classes.php">Classes</a></li>
             <li <?php echo ($page == 'fees') ? 'class="active"' : '';?>><a href="fees.php">Fees</a></li>
+            <li <?php echo ($page == 'safedance') ? 'class="active"' : '';?>><a href="safedance.php">Safe Dance</a></li>
             <li <?php echo ($page == 'contact') ? 'class="active"' : '';?>><a href="contact.php">Contact</a></li>
             <li <?php echo ($page == 'facebook') ? 'class="active"' : '';?>><a href="https://www.facebook.com/tiptoeinthehills" title="Find us on facebook" target="_TOP">Facebook</a></li>
         </ul>

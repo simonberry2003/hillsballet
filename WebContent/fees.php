@@ -21,7 +21,24 @@
                         <h4><i class="fa fa-fw fa-check"></i>Fees Per 10 Week Term</h4>
                     </div>
 					<div class="panel-body">
-						<p>Fees are charged per term. Please <a href="contact.php">contact us</a> for more details.</p>
+						<table class="table table-hover">
+							<tr>
+								<th>Length of lesson</th>
+								<th>Fees (inc. GST per 10 week term)</th>
+							</tr>
+							<tr>
+								<td>40/45 minutes</td>
+								<td>$112.50</td>
+							</tr>
+							<tr>
+								<td>60 Minutes</td>
+								<td>$135</td>
+							</tr>
+							<tr>
+								<td>30 Minutes (add on classes-tap/pointe and limber)</td>
+								<td>$49.50</td>
+							</tr>
+						</table>					
 					</div>
                 </div>
             </div>

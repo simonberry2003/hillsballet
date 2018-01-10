@@ -17,7 +17,7 @@
 				school sharing the love of dance with children.</p>
 			    <?php include "alert.php" ?>
 	    	</div>
-            <div class="col-md-4">
+            <div class="col-md-6">
                 <div class="panel panel-default">
                     <div class="panel-heading">
                         <h4><i class="fa fa-fw fa-check"></i>About Us</h4>
@@ -32,7 +32,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-md-4">
+            <div class="col-md-6">
                 <div class="panel panel-default">
                     <div class="panel-heading">
                         <h4><i class="fa fa-fw fa-gift"></i>Classes</h4>
@@ -49,7 +49,7 @@
                     
                 </div>
             </div>
-            <div class="col-md-4">
+            <div class="col-md-6">
                 <div class="panel panel-default">
                     <div class="panel-heading">
                         <h4><i class="fa fa-fw fa-gift"></i>Timetable</h4>
@@ -57,6 +57,28 @@
                     <div class="panel-body">
                         <p>Our 2018 timetable is now available.</p>
                         <a href="/timetable.php" class="btn btn-default">Learn More</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="panel panel-default">
+                    <div class="panel-heading">
+                        <h4><i class="fa fa-fw fa-gift"></i>Home School Partnerships</h4>
+                    </div>
+                    <div class="panel-body">
+                        <p>We are delighted to be able to offer a bespoke Home-school Performing Arts service to families or groups of families.</p>
+                        <a href="/homeschool.php" class="btn btn-default">Learn More</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="panel panel-default">
+                    <div class="panel-heading">
+                        <h4><i class="fa fa-fw fa-gift"></i>Schools</h4>
+                    </div>
+                    <div class="panel-body">
+                        <p>We offer high quality workshops and lessons supporting and facilitating the Performing Arts objectives of the Australian Curriculum.</p>
+                        <a href="/schools.php" class="btn btn-default">Learn More</a>
                     </div>
                 </div>
             </div>
