@@ -32,7 +32,7 @@
 	    </div>
 
 		<br>	    
-		<?php include "register3.php" ?>
+		<?php include "register2.php" ?>
 			    
     </div>
 	

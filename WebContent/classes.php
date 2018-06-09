@@ -93,6 +93,17 @@
             <div class="col-md-4">
                 <div class="panel panel-default">
                     <div class="panel-heading">
+                        <h4><i class="fa fa-fw fa-gift"></i>Turtle Tappers (ages 3- 5)</h4>
+                    </div>
+                    <div class="panel-body">
+                    	<p>A fun and extremely noisy introductory tap class for our smallest tappers!</p>
+                    	</p>Children need to be enrolled in a ballet class before or after the tap class.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="panel panel-default">
+                    <div class="panel-heading">
                         <h4><i class="fa fa-fw fa-gift"></i>Locomotion</h4>
                     </div>
                     <div class="panel-body">

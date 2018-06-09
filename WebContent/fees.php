@@ -20,11 +20,11 @@
                     <div class="panel-heading">
                         <h4><i class="fa fa-fw fa-check"></i>Fees Per 10 Week Term</h4>
                     </div>
-					<div class="panel-body">
-						<table class="table table-hover">
+			        <div class="table-responsive">
+			            <table class="table table-striped table-hover">
 							<tr>
 								<th>Length of lesson</th>
-								<th>Fees (inc. GST per 10 week term)</th>
+								<th>Fees (inc. GST)</th>
 							</tr>
 							<tr>
 								<td>40/45 minutes</td>
@@ -35,7 +35,7 @@
 								<td>$135</td>
 							</tr>
 							<tr>
-								<td>30 Minutes (add on classes-tap/pointe and limber)</td>
+								<td>30 Minutes (tap/pointe and limber)</td>
 								<td>$49.50</td>
 							</tr>
 						</table>					
