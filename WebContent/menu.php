@@ -34,21 +34,6 @@
     <!-- Indicators -->
     <ol class="carousel-indicators">
         <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-        <li data-target="#myCarousel" data-slide-to="1"></li>
-        <li data-target="#myCarousel" data-slide-to="2"></li>
-        <li data-target="#myCarousel" data-slide-to="3"></li>
-        <li data-target="#myCarousel" data-slide-to="4"></li>
-        <li data-target="#myCarousel" data-slide-to="5"></li>
-        <li data-target="#myCarousel" data-slide-to="6"></li>
-        <li data-target="#myCarousel" data-slide-to="7"></li>
-        <li data-target="#myCarousel" data-slide-to="8"></li>
-        <li data-target="#myCarousel" data-slide-to="9"></li>
-        <li data-target="#myCarousel" data-slide-to="10"></li>
-        <li data-target="#myCarousel" data-slide-to="11"></li>
-        <li data-target="#myCarousel" data-slide-to="12"></li>
-        <li data-target="#myCarousel" data-slide-to="13"></li>
-        <li data-target="#myCarousel" data-slide-to="14"></li>
-        <li data-target="#myCarousel" data-slide-to="15"></li>
     </ol>
 
     <!-- Wrapper for slides -->
@@ -56,51 +41,6 @@
         <div class="item active">
             <div class="fill" style="background-image:url('images/slider/Harriet and Abbie.jpg');"></div>
         </div>
-        <div class="item">
-            <div class="fill" style="background-image:url('images/slider/First Position web.jpg');"></div>
-        </div>
-        <div class="item">
-            <div class="fill" style="background-image:url('images/slider/Image 1.jpg');"></div>
-        </div>
-	    <div class="item">
-	      	<div class="fill" style="background-image:url('images/slider/Heads Turned.jpg');"></div>
-	    </div>
-	    <div class="item">
-	    	<div class="fill" style="background-image:url('images/slider/Image 2.jpg');"></div>
-	    </div>
-	    <div class="item">
-	    	<div class="fill" style="background-image:url('images/slider/First position2.jpg');"></div>
-	    </div>
-	    <div class="item">
-	    	<div class="fill" style="background-image:url('images/slider/Image 3.jpg');"></div>
-	    </div>
-	    <div class="item">
-	    	<div class="fill" style="background-image:url('images/slider/Beatrice 5th.jpg');"></div>
-	    </div>
-	    <div class="item">
-	    	<div class="fill" style="background-image:url('images/slider/Image 4.jpg');"></div>
-	    </div>
-	    <div class="item">
-	    	<div class="fill" style="background-image:url('images/slider/feet.jpg');"></div>
-	    </div>
-	    <div class="item">
-	    	<div class="fill" style="background-image:url('images/slider/Image 5.jpg');"></div>
-	    </div>
-	    <div class="item">
-	    	<div class="fill" style="background-image:url('images/slider/Harriet 5th.jpg');"></div>
-	    </div>
-	    <div class="item">
-	    	<div class="fill" style="background-image:url('images/slider/pointe.jpg');"></div>
-	    </div>
-	    <div class="item">
-	    	<div class="fill" style="background-image:url('images/slider/Image 6.jpg');"></div>
-	    </div>
-	    <div class="item">
-	    	<div class="fill" style="background-image:url('images/slider/Zoe.jpg');"></div>
-	    </div>
-	    <div class="item">
-	    	<div class="fill" style="background-image:url('images/slider/feetjumble.jpg');"></div>
-	    </div>        
     </div>
 
     <!-- Controls -->
