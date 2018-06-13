@@ -15,7 +15,7 @@
 			    <?php include "alert.php" ?>
 	    	</div>
             <div class="col-md-6">
-                <div class="panel panel-default">
+                <div class="panel panel-primary">
                     <div class="panel-heading">
                         <h4><i class="fa fa-fw fa-check"></i>Aldgate Oval Hall</h4>
                     </div>
@@ -28,7 +28,7 @@
                 </div>
             </div>
             <div class="col-md-6">
-                <div class="panel panel-default">
+                <div class="panel panel-primary">
                     <div class="panel-heading">
                         <h4><i class="fa fa-fw fa-check"></i>Mount Lofty Scout Hut</h4>
                     </div>
@@ -41,12 +41,14 @@
                 </div>
             </div>
             <div class="col-md-6">
-                <div class="panel panel-default">
+                <div class="panel panel-primary">
                     <div class="panel-heading">
                         <h4><i class="fa fa-fw fa-check"></i>Woodside Institute Hall</h4>
                     </div>
                     <div class="panel-body">
-						<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1635.0652922341492!2d138.874138858403!3d-34.95333559670273!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ab7480156dacbab%3A0x251213e561ce6f7e!2sWoodside+Institute+(Hall)!5e0!3m2!1sen!2sau!4v1528586546750" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+						<iframe width="500" height="350" frameborder="0" scrolling="no"
+							marginheight="0" marginwidth="0"
+							src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1635.0652922341492!2d138.874138858403!3d-34.95333559670273!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ab7480156dacbab%3A0x251213e561ce6f7e!2sWoodside+Institute+(Hall)!5e0!3m2!1sen!2sau!4v1528586546750" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 						<br />
                     </div>
                 </div>

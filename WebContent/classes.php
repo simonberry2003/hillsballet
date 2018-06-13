@@ -15,7 +15,7 @@
 			    <?php include "alert.php" ?>
 	    	</div>
             <div class="col-md-4">
-                <div class="panel panel-default">
+                <div class="panel panel-primary">
                     <div class="panel-heading">
                         <h4><i class="fa fa-fw fa-check"></i>Little Tiptoes (18 months - 3 years)</h4>
                     </div>
@@ -36,7 +36,7 @@
                 </div>
             </div>
             <div class="col-md-4">
-                <div class="panel panel-default">
+                <div class="panel panel-primary">
                     <div class="panel-heading">
                         <h4><i class="fa fa-fw fa-gift"></i>Leap into Dance (3 - 5 years)</h4>
                     </div>
@@ -50,7 +50,7 @@
                 </div>
             </div>
             <div class="col-md-4">
-                <div class="panel panel-default">
+                <div class="panel panel-primary">
                     <div class="panel-heading">
                         <h4><i class="fa fa-fw fa-gift"></i>Pre-Primary/Primary Ballet (5 - 7 years)</h4>
                     </div>
@@ -71,7 +71,7 @@
 	    </div>
 	  	<div class="row">
             <div class="col-md-4">
-                <div class="panel panel-default">
+                <div class="panel panel-primary">
                     <div class="panel-heading">
                         <h4><i class="fa fa-fw fa-check"></i>Grade 1 - 4 Ballet (7 - 12 years)</h4>
                     </div>
@@ -91,7 +91,7 @@
                 </div>
             </div>
             <div class="col-md-4">
-                <div class="panel panel-default">
+                <div class="panel panel-primary">
                     <div class="panel-heading">
                         <h4><i class="fa fa-fw fa-gift"></i>Turtle Tappers (ages 3- 5)</h4>
                     </div>
@@ -102,7 +102,7 @@
                 </div>
             </div>
             <div class="col-md-4">
-                <div class="panel panel-default">
+                <div class="panel panel-primary">
                     <div class="panel-heading">
                         <h4><i class="fa fa-fw fa-gift"></i>Locomotion</h4>
                     </div>
@@ -118,7 +118,7 @@
                 </div>
             </div>
             <div class="col-md-4">
-                <div class="panel panel-default">
+                <div class="panel panel-primary">
                     <div class="panel-heading">
                         <h4><i class="fa fa-fw fa-gift"></i>Tap</h4>
                     </div>
@@ -133,7 +133,7 @@
         </div>
         <div class="row">
             <div class="col-md-4">
-                <div class="panel panel-default">
+                <div class="panel panel-primary">
                     <div class="panel-heading">
                         <h4><i class="fa fa-fw fa-gift"></i>Musical Theatre</h4>
                     </div>
@@ -147,7 +147,7 @@
                 </div>
             </div>
             <div class="col-md-4">
-                <div class="panel panel-default">
+                <div class="panel panel-primary">
                     <div class="panel-heading">
                         <h4><i class="fa fa-fw fa-gift"></i>Contemporary Dance</h4>
                     </div>
@@ -159,7 +159,7 @@
                 </div>
             </div>
             <div class="col-md-4">
-                <div class="panel panel-default">
+                <div class="panel panel-primary">
                     <div class="panel-heading">
                         <h4><i class="fa fa-fw fa-gift"></i>Adult Contemporary</h4>
                     </div>

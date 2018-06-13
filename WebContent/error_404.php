@@ -11,10 +11,10 @@
 <body>
 	<?php $page="" ?>
 	<?php include "menu.php" ?>
-	<div class="panel panel-default">
+	<div class="panel panel-primary">
 		<div class="container">
 			<div class="panel-body">
-				<div class="panel panel-default">
+				<div class="panel panel-primary">
 					<div class="panel-heading">
 						<h3 class="panel-title">Error 404 - Page not found</h3>
 					</div>

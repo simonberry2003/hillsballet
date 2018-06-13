@@ -18,7 +18,7 @@
 			    <?php include "alert.php" ?>
 	    	</div>
             <div class="col-md-6">
-                <div class="panel panel-default">
+                <div class="panel panel-primary">
                     <div class="panel-heading">
                         <h4><i class="fa fa-fw fa-check"></i>About Us</h4>
                     </div>
@@ -33,7 +33,7 @@
                 </div>
             </div>
             <div class="col-md-6">
-                <div class="panel panel-default">
+                <div class="panel panel-primary">
                     <div class="panel-heading">
                         <h4><i class="fa fa-fw fa-gift"></i>Classes</h4>
                     </div>
@@ -50,7 +50,7 @@
                 </div>
             </div>
             <div class="col-md-6">
-                <div class="panel panel-default">
+                <div class="panel panel-primary">
                     <div class="panel-heading">
                         <h4><i class="fa fa-fw fa-gift"></i>Timetable</h4>
                     </div>
@@ -61,7 +61,7 @@
                 </div>
             </div>
             <div class="col-md-6">
-                <div class="panel panel-default">
+                <div class="panel panel-primary">
                     <div class="panel-heading">
                         <h4><i class="fa fa-fw fa-gift"></i>Home School Partnerships</h4>
                     </div>
@@ -72,7 +72,7 @@
                 </div>
             </div>
             <div class="col-md-6">
-                <div class="panel panel-default">
+                <div class="panel panel-primary">
                     <div class="panel-heading">
                         <h4><i class="fa fa-fw fa-gift"></i>Schools</h4>
                     </div>

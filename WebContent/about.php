@@ -17,7 +17,7 @@
         </div>
 	  	<div class="row">
 	  	    <div class="col-md-6">
-                <div class="panel panel-default">
+                <div class="panel panel-primary">
                     <div class="panel-heading">
                         <h4><i class="fa fa-fw fa-check"></i>About Us</h4>
                     </div>
@@ -39,7 +39,7 @@
                 </div>
             </div>
             <div class="col-md-6">
-                <div class="panel panel-default">
+                <div class="panel panel-primary">
                     <div class="panel-heading">
                         <h4><i class="fa fa-fw fa-gift"></i>Chantal Berry</h4>
                     </div>
@@ -59,7 +59,7 @@
                 </div>
             </div>
             <div class="col-md-6">
-                <div class="panel panel-default">
+                <div class="panel panel-primary">
                     <div class="panel-heading">
                         <h4><i class="fa fa-fw fa-gift"></i>Monique Saywell</h4>
                     </div>
@@ -70,7 +70,7 @@
                 </div>
             </div>
             <div class="col-md-6">
-                <div class="panel panel-default">
+                <div class="panel panel-primary">
                     <div class="panel-heading">
                         <h4><i class="fa fa-fw fa-gift"></i>Kathryn Thomson</h4>
                     </div>
@@ -86,7 +86,7 @@
                 </div>
             </div>
             <div class="col-md-6">
-                <div class="panel panel-default">
+                <div class="panel panel-primary">
                     <div class="panel-heading">
                         <h4><i class="fa fa-fw fa-gift"></i>Tanya Voges</h4>
                     </div>

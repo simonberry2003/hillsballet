@@ -16,7 +16,7 @@
 	    	</div>
 	  	
             <div class="col-md-12">
-                <div class="panel panel-default">
+                <div class="panel panel-primary">
                     <div class="panel-heading">
                         <h4><i class="fa fa-fw fa-gift"></i>HBS is committed to creating a safe dance environment.HBS</h4>
                     </div>
