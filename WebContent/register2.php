@@ -10,7 +10,7 @@
             
             $info = "info@hillsballetschool.com.au";
             
-            $headers = "From: " . $info . "\n";
+            $headers = "From: " . $_POST['email'] . "\n";
             $headers .= "To: " . $info . "\n"; 
             $headers .= "Reply-To: " . $email . "\n";
             $headers .= "MIME-Version: 1.0" . "\n";
