@@ -6,50 +6,75 @@
             </div>
 			<div class="panel-body">
 				<?php
+		
+		$showForm = true;		
         if (array_key_exists('email', $_POST)) {
             
-            $info = "info@hillsballetschool.com.au";
+            // Verify recapture
+			$post_data = http_build_query(
+			    array(
+			        'secret' => '6LdI6XQUAAAAAHBzVQBczGLpf3yQaqjVu4BdJzVq',
+        			'response' => $_POST['g-recaptcha-response'],
+        			'remoteip' => $_SERVER['REMOTE_ADDR']
+    			)
+			);
+			$opts = array('http' =>
+    			array(
+        			'method'  => 'POST',
+        			'header'  => 'Content-type: application/x-www-form-urlencoded',
+        			'content' => $post_data
+    			)
+			);
+			$context  = stream_context_create($opts);
+			$response = file_get_contents('https://www.google.com/recaptcha/api/siteverify', false, $context);
+			$result = json_decode($response);
+			if ($result->success) {
             
-            $headers = "From: " . $_POST['email'] . "\n";
-            $headers .= "To: " . $info . "\n"; 
-            $headers .= "Reply-To: " . $email . "\n";
-            $headers .= "MIME-Version: 1.0" . "\n";
-            $headers .= "Content-type:text/html;charset=UTF-8" . "\n";
+	            $info = "info@hillsballetschool.com.au";
             
-            $message = "Name: " . $_POST['name'] . "<br>";
-            $message .= "DOB: " . $_POST['dob'] . "<br>";
-            $message .= "Email: " . $_POST['email'] . "<br>";
-            $message .= "Phone: " . $_POST['phone'] . "<br>";
-            $message .= "Carer: " . $_POST['carer'] . "<br>";
-            $message .= "Class: " . $_POST['class'] . "<br>";
-            $message .= "Day: " . $_POST['day'] . "<br>";
+            	$headers = "From: " . $_POST['email'] . "\n";
+            	$headers .= "To: " . $info . "\n"; 
+            	$headers .= "Reply-To: " . $email . "\n";
+            	$headers .= "MIME-Version: 1.0" . "\n";
+            	$headers .= "Content-type:text/html;charset=UTF-8" . "\n";
+            
+            	$message = "Name: " . $_POST['name'] . "<br>";
+            	$message .= "DOB: " . $_POST['dob'] . "<br>";
+            	$message .= "Email: " . $_POST['email'] . "<br>";
+            	$message .= "Phone: " . $_POST['phone'] . "<br>";
+            	$message .= "Carer: " . $_POST['carer'] . "<br>";
+            	$message .= "Class: " . $_POST['class'] . "<br>";
+            	$message .= "Day: " . $_POST['day'] . "<br>";
 
-            mail($info, "Registration", $message, $headers);
-    ?>
+	            mail($info, "Registration", $message, $headers);
+	            $showForm = false;
+		    ?>
 				Thanks for your interest. We will be in touch soon.
-
-				<?php } else { ?>
-
+			<?php 
+	        }
+	    }
+		if ($showForm) { ?>
+				
 				<form action="contact.php" method="post">
 					<table>
 						<tr>
 							<td>
 								<div class="form-group">
-									<label for="name">Child's Full Name:</label> <input type="text"
-										class="form-control" id="name" name="name">
+									<label for="name">Child's Full Name:</label> <input type="text" 
+										class="form-control" id="name" name="name" required>
 								</div>
 							</td>
 							<td>
 								<div class="form-group">
 									<label for="dob">Date of Birth:</label> <input type="text"
-										class="form-control" id="dob" name="dob">
+										class="form-control" id="dob" name="dob" required>
 								</div>
 							</td>
 						<tr>
 							<td colspan="2">
 								<div class="form-group">
 									<label for="email">Email Address:</label> <input type="email"
-										class="form-control" id="email" name="email">
+										class="form-control" id="email" name="email" required>
 								</div>
 							</td>
 						</tr>
@@ -57,13 +82,13 @@
 							<td>
 								<div class="form-group">
 									<label for="phone">Phone:</label> <input type="text"
-										class="form-control" id="phone" name="phone">
+										class="form-control" id="phone" name="phone" required>
 								</div>
 							</td>
 							<td>
 								<div class="form-group">
 									<label for="carer">Carer's Name:</label> <input type="text"
-										class="form-control" id="carer" name="carer">
+										class="form-control" id="carer" name="carer" required>
 								</div>
 							</td>
 						</tr>
@@ -101,7 +126,12 @@
 						</tr>
 						<tr>
 							<td>
-								<input type="submit" class="btn btn-default">
+								<div class="g-recaptcha" data-callback="recaptchaCallback" data-sitekey="6LdI6XQUAAAAAD8f0otJwX4nPMbmnvBfQJrVKyh-"></div>					
+							</td>
+						</tr>
+						<tr>
+							<td>
+								<input type="submit" id="submitBtn" class="btn btn-default" disabled>
 							</td>
 						</tr>
 					</table>
