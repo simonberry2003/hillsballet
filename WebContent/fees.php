@@ -28,15 +28,27 @@
 							</tr>
 							<tr>
 								<td>40/45 minutes</td>
-								<td>$112.50</td>
+								<td>$115</td>
 							</tr>
 							<tr>
 								<td>60 Minutes</td>
-								<td>$135</td>
+								<td>$138</td>
 							</tr>
 							<tr>
 								<td>30 Minutes (tap/pointe and limber)</td>
-								<td>$49.50</td>
+								<td>$52</td>
+							</tr>
+							<tr>
+								<td>Musical Theatre Level 3 and 4</td>
+								<td>Singing/Drama - $138</td>
+							</tr>
+							<tr>
+								<td>(Family discounts do not apply to Musical Theatre packages)</td>
+								<td>Singing/Drama + 1 dance class $230</td>
+							</tr>
+							<tr>
+								<td></td>
+								<td>Singing and Drama + 2 dance class $300</td>
 							</tr>
 						</table>					
 					</div>
